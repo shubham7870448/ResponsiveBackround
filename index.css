@@ -1,0 +1,25 @@
+body,html{
+  width: 100%;
+  height: 100%px;
+  background: url('3.jpg') no-repeat center center fixed;
+  background-size:cover;
+}
+
+.btn:hover
+{
+-webkit-box-shadow: 2px 1px 22px 10px #7183FF; 
+box-shadow: 2px 1px 22px 10px #7183FF;
+background-color: #43aacc;
+color:white;
+font-size:30px;
+}
+
+.btncenter
+{
+	display:block;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:20px;
+    padding:20px 50px;
+    margin-top:20px;
+}
